@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: 
 // File: @openzeppelin/contracts/math/Math.sol
 
 
